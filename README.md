@@ -1,5 +1,35 @@
 Chitter Challenge
 =================
+This is my response to the 'weekend challenge' of Week 4 of Makers Academy.
+
+In the weekend challenge, we develop an application that will allow the users to
+post messages to a public stream. For full details of what the challenge involved,
+see 'Appendix' below.
+
+## Getting started
+
+1. git clone https://github.com/YvCodeHong/chitter-challenge.git
+2. Run 'gem list' in the project directory to check whether 'bundler' is installed.
+If it is not, run gem install bundler'
+3. In the project directory, run 'bundle' to install the gems specified in the Gemfile.
+
+## Technologies used
+
+* Sinatra
+* Ruby
+* Capybara
+* Rspec
+* HTML and CSS
+* Postgres SQL
+* Datamapper
+
+
+#Running test
+
+* Run Rspec
+* Capybara
+
+##Appendix
 
 * Challenge time: rest of the day and weekend, until Monday 9am
 * Feel free to use Google, your notes, books, etc. but work on your own
