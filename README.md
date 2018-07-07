@@ -24,12 +24,12 @@ If it is not, run gem install bundler'
 * Datamapper
 
 
-#Running test
+## Running test
 
 * Run Rspec
 * Capybara
 
-##Appendix
+## Appendix
 
 * Challenge time: rest of the day and weekend, until Monday 9am
 * Feel free to use Google, your notes, books, etc. but work on your own
